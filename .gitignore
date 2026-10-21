@@ -1,0 +1,38 @@
+# Entorno local
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Datos pesados: permanecen solo en local
+data/*
+!data/.gitkeep
+!data/clips_public/
+!data/embeddings/
+!data/*.gitkeep
+data/clips_public/*
+data/embeddings/*
+!data/clips_public/.gitkeep
+!data/embeddings/.gitkeep
+data/train.csv
+data/test.csv
+
+# Salidas temporales y artefactos de modelos
+*.pt
+*.pth
+*.ckpt
+*.npy
+*.npz
+*.parquet
+*.pkl
+*.pickle
+*.mp4
+*.avi
+*.mov
+
+# Configuración local y credenciales
+.env
+.env.*
+!.env.example
