@@ -5,6 +5,7 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .ipynb_checkpoints/
+.DS_Store
 
 # Datos pesados: permanecen solo en local
 data/*

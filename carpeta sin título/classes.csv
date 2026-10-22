@@ -1,0 +1,9 @@
+label,codigos_origen,descripcion
+normal,OK,Servicio normal de una o varias cervezas
+espuma_tirada,MP-4,Se tira la espuma del vaso al sumidero
+cerveza_al_sumidero,MP-2,Se tira cerveza (no solo espuma) al sumidero
+servir_y_rellenar,MP-1,Se sirve un vaso y se vuelve a rellenar
+un_vaso_dos_grifos,MP-5,Un mismo vaso se llena de dos grifos distintos
+vaso_equivocado,MP-3,Se sirve en un vaso que no corresponde a esa cerveza
+cambio_de_vaso,MP-6,Se cambia el vaso después de tirar
+otra_praxis,MP-0 MP-7 MP-8 MP-10,"Otra: grifo abierto sin vaso, personal bebiendo, vaso abandonado, otras"
