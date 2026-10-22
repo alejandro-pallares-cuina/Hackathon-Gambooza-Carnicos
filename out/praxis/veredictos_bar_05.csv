@@ -1,0 +1,82 @@
+clip_id,detectado,prob_max,segmentos,etiqueta,acierto,tipo
+c93ffb59244e,False,0.11850942671298981,,un_vaso_dos_grifos,False,se le escapó
+537b41ba3fdf,True,0.9991949200630188,8-22s,un_vaso_dos_grifos,True,acierto: detectado
+c90a9168252f,True,0.9999374151229858,2-58s,un_vaso_dos_grifos,True,acierto: detectado
+1c9921b5fb31,True,0.9888669848442078,8-26s,un_vaso_dos_grifos,True,acierto: detectado
+46a8c853d8d9,False,0.013863426633179188,,un_vaso_dos_grifos,False,se le escapó
+cf2e809fa3f2,True,0.9989327788352966,10-30s; 34-48s,un_vaso_dos_grifos,True,acierto: detectado
+dba9a061c57b,True,0.9996269941329956,2-30s,un_vaso_dos_grifos,True,acierto: detectado
+fa1514e22aeb,True,0.999458372592926,8-18s; 30-34s,un_vaso_dos_grifos,True,acierto: detectado
+4365916a7cac,False,0.044127754867076874,,un_vaso_dos_grifos,False,se le escapó
+cf8438ca565d,True,0.9998090863227844,2-24s,un_vaso_dos_grifos,True,acierto: detectado
+dc0258f4b379,False,0.13204598426818848,,un_vaso_dos_grifos,False,se le escapó
+92072a3f0b27,False,0.1262698769569397,,un_vaso_dos_grifos,False,se le escapó
+1d3019388d99,True,0.9986103773117065,2-20s,un_vaso_dos_grifos,True,acierto: detectado
+b253ea0ec3ea,True,0.9803895354270935,10-18s,un_vaso_dos_grifos,True,acierto: detectado
+5ec4cf1c9c01,False,0.07259521633386612,,un_vaso_dos_grifos,False,se le escapó
+f86c26e29c59,False,0.2187558263540268,,un_vaso_dos_grifos,False,se le escapó
+d5a33f84f393,True,0.8462983965873718,16-18s; 28-28s,un_vaso_dos_grifos,True,acierto: detectado
+28b64925bcbb,False,0.14289678633213043,,un_vaso_dos_grifos,False,se le escapó
+667a71d818dc,True,0.9998377561569214,8-22s; 26-44s,un_vaso_dos_grifos,True,acierto: detectado
+6e7f20f109c5,True,0.9999827146530151,2-58s,un_vaso_dos_grifos,True,acierto: detectado
+9315c7d7dc99,False,0.046231500804424286,,un_vaso_dos_grifos,False,se le escapó
+de4229d12f60,False,0.0392126701772213,,normal,True,acierto: no hay
+ae190ac8f029,True,0.9994077682495117,10-20s,normal,False,falsa alarma
+b9d2401e00b9,False,0.011770962737500668,,normal,True,acierto: no hay
+915221356f6d,False,0.06398207694292068,,normal,True,acierto: no hay
+b8c333f288da,True,0.9987726807594299,2-20s,normal,False,falsa alarma
+00f5862b1b1a,False,0.03476117551326752,,espuma_tirada,True,acierto: no hay
+dfb9cbc7222e,False,0.03731082007288933,,normal,True,acierto: no hay
+59ad1273ea68,False,0.09223080426454544,,normal,True,acierto: no hay
+9f1abb2542c6,False,0.10195162892341614,,espuma_tirada,True,acierto: no hay
+fd5eae9e0f29,False,0.21686793863773346,,normal,True,acierto: no hay
+ba871683674e,True,0.9994402527809143,2-20s,normal,False,falsa alarma
+7806ecc84dfd,False,0.05235922336578369,,otra_praxis,True,acierto: no hay
+ddb2af7a14dc,False,0.21014709770679474,,normal,True,acierto: no hay
+4719e2a66fa0,False,0.19980880618095398,,servir_y_rellenar,True,acierto: no hay
+c5c27f45372e,True,0.9967768788337708,10-22s,cerveza_al_sumidero,False,falsa alarma
+8ccb004435ce,False,0.4590133726596832,,espuma_tirada,True,acierto: no hay
+0ce04b5396f6,True,0.9995149374008179,2-20s,normal,False,falsa alarma
+716a7bb977e5,True,0.9968051910400391,10-20s,normal,False,falsa alarma
+5b7d3c026a91,False,0.0493038073182106,,normal,True,acierto: no hay
+ede3c6fcf7bc,False,0.07493078708648682,,normal,True,acierto: no hay
+d17d9995618c,True,0.9873535633087158,8-20s,normal,False,falsa alarma
+dfd5ad1bb3ef,False,0.06082214042544365,,normal,True,acierto: no hay
+1510842922ba,True,0.9667873382568359,2-14s,normal,False,falsa alarma
+6b9c32b9ae4a,True,0.9991894364356995,10-20s,normal,False,falsa alarma
+71c80415e2a6,True,0.9998032450675964,4-30s,servir_y_rellenar,False,falsa alarma
+535b4bf1a51a,False,0.09916391223669052,,otra_praxis,True,acierto: no hay
+543ccd89f6ed,True,0.9621738791465759,2-20s,normal,False,falsa alarma
+16905df264a8,True,0.7285608053207397,16-18s,normal,False,falsa alarma
+0adbb3a4bbdf,True,0.9525740146636963,10-12s; 14-20s,normal,False,falsa alarma
+42e9200a7db5,False,0.03690355643630028,,normal,True,acierto: no hay
+5b5ce783fdfc,False,0.18533962965011597,,normal,True,acierto: no hay
+552f2f712d6c,False,0.0027857795357704163,,normal,True,acierto: no hay
+478b6e2196ea,False,0.017045414075255394,,servir_y_rellenar,True,acierto: no hay
+aa6615e23f25,False,0.06105954200029373,,espuma_tirada,True,acierto: no hay
+6acb0ba589d9,False,0.08024199306964874,,servir_y_rellenar,True,acierto: no hay
+e8720de269c4,False,0.15363676846027374,,servir_y_rellenar,True,acierto: no hay
+24b72a88b207,False,0.24099372327327728,,espuma_tirada,True,acierto: no hay
+ffa05b3f3a55,False,0.10129176825284958,,espuma_tirada,True,acierto: no hay
+7fb96da845e4,True,0.9999785423278809,8-20s,normal,False,falsa alarma
+6f972ba0d037,True,0.8252547383308411,4-20s; 22-28s,espuma_tirada,False,falsa alarma
+d8f7d16349d6,False,0.12472672760486603,,espuma_tirada,True,acierto: no hay
+179b0eafdbb6,False,0.17511393129825592,,normal,True,acierto: no hay
+4a6866df2c43,False,0.012846404686570168,,normal,True,acierto: no hay
+51111412628a,True,0.9997733235359192,10-20s,normal,False,falsa alarma
+8a33af223e24,True,0.9999699592590332,8-20s,normal,False,falsa alarma
+dac8df19fa10,True,0.9995632767677307,2-20s,normal,False,falsa alarma
+535d49cb6f84,False,0.10616912692785263,,normal,True,acierto: no hay
+97e768841b9d,False,0.16837653517723083,,vaso_equivocado,True,acierto: no hay
+240c98d0422c,True,0.6932755708694458,12-14s; 16-18s,normal,False,falsa alarma
+5d883304a0c8,False,0.3267664909362793,,normal,True,acierto: no hay
+af0d6cf2b6f3,False,0.0860709697008133,,espuma_tirada,True,acierto: no hay
+e7ebcaed71aa,True,0.9972564578056335,10-20s,normal,False,falsa alarma
+55644e347e15,True,0.9995250701904297,4-6s; 6-20s,normal,False,falsa alarma
+a2f0b0a94612,True,0.9997510313987732,8-20s,normal,False,falsa alarma
+0ac98732eac4,True,0.9998121857643127,8-20s,normal,False,falsa alarma
+b62af5f1b881,True,0.6229071021080017,14-16s; 18-18s,normal,False,falsa alarma
+0b9f3196899b,False,0.06313715875148773,,cerveza_al_sumidero,True,acierto: no hay
+76868e3ea3bb,False,0.46595436334609985,,normal,True,acierto: no hay
+529f3c4bb7dc,False,0.03567526116967201,,normal,True,acierto: no hay
+4126cdaa3492,True,0.9992096424102783,2-20s,normal,False,falsa alarma
